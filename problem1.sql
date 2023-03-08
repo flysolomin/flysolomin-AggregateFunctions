@@ -1,0 +1,1 @@
+SELECT SUM(salary) AS addition FROM employee;
